@@ -3,17 +3,17 @@
   "name": "clonalejandro web",
   "icons": [
     {
-      "src": "http://es.gravatar.com/userimage/95988980/f3fb5b089aa16571ff40cbcc7657da35.png",
+      "src": "https://es.gravatar.com/userimage/95988980/f3fb5b089aa16571ff40cbcc7657da35.png",
       "sizes": "128x128 64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "http://es.gravatar.com/userimage/95988980/f3fb5b089aa16571ff40cbcc7657da35.png?size=192",
+      "src": "https://es.gravatar.com/userimage/95988980/f3fb5b089aa16571ff40cbcc7657da35.png?size=192",
       "sizes": "192px",
       "type": "image/png"
     },
     {
-      "src": "http://es.gravatar.com/userimage/95988980/f3fb5b089aa16571ff40cbcc7657da35.png?size=512",
+      "src": "https://es.gravatar.com/userimage/95988980/f3fb5b089aa16571ff40cbcc7657da35.png?size=512",
       "sizes": "512px",
       "type": "image/png"
     }
