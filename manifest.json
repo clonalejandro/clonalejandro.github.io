@@ -9,12 +9,12 @@
     },
     {
       "src": "https://es.gravatar.com/userimage/95988980/f3fb5b089aa16571ff40cbcc7657da35.png?size=192",
-      "sizes": "192px",
+      "sizes": "192x192",
       "type": "image/png"
     },
     {
       "src": "https://es.gravatar.com/userimage/95988980/f3fb5b089aa16571ff40cbcc7657da35.png?size=512",
-      "sizes": "512px",
+      "sizes": "512x512",
       "type": "image/png"
     }
   ],
