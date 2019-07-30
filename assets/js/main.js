@@ -7,9 +7,8 @@
         target.setAttribute("style", heigth);
     };
     
-    setTimeout(() => {
-        resize();
-        window.addEventListener('DOMContentLoaded', resize);
-        window.addEventListener('resize', resize)
-    }, 500)
+    window.addEventListener('DOMContentLoaded', resize);
+    window.addEventListener('resize', resize);
+
+    setTimeout(resize, 500)
 })();
