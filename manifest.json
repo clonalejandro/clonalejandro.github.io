@@ -4,8 +4,8 @@
   "icons": [
     {
       "src": "http://es.gravatar.com/userimage/95988980/f3fb5b089aa16571ff40cbcc7657da35.png",
-      "sizes": "128x128 64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "sizes": "192x192 128x128 64x64 32x32 24x24 16x16",
+      "type": "image/png"
     }
   ],
   "start_url": ".",
