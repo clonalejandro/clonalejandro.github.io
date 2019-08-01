@@ -7,8 +7,24 @@
         target.setAttribute("style", heigth);
     };
     
-    window.addEventListener('DOMContentLoaded', resize);
+    window.addEventListener('DOMContentLoaded', e => {
+        resize();
+        loadParticles();
+    });
+
     window.addEventListener('resize', resize);
 
     setTimeout(resize, 500)
 })();
+
+
+/** FUNCTIONS **/
+
+function loadParticles(){
+    return particlesJS.load('particles', 'assets/particles.json')
+}
+
+
+/** EVENTS **/
+
+//window.addEventListener('DOMContentLoaded', loadParticles)
