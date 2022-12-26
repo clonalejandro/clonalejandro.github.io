@@ -1,6 +1,6 @@
 {
-  "short_name": "clonalejandro web",
-  "name": "clonalejandro web",
+  "short_name": "clonalejandro's web",
+  "name": "clonalejandro's web",
   "icons": [
     {
       "src": "https://es.gravatar.com/userimage/95988980/f3fb5b089aa16571ff40cbcc7657da35.png",
@@ -20,6 +20,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#2b5876",
+  "background_color": "#2b5876"
 }
